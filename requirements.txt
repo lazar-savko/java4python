@@ -1,3 +1,4 @@
 runestone>=7.0.0
 SQLAlchemy>=1.0.8
 psycopg2-binary
+aiosqlite==0.19.0
